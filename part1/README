@@ -1,0 +1,5 @@
+Just run the file (python experiment.py) from a working directory containing the files:
+1) train_set
+2) test_set
+
+These files are generated when running 'gen_examples.py'.
